@@ -1,4 +1,5 @@
 SMS Spam Detection using Word2Vec and Naive Bayes
+
 This project demonstrates the use of Word2Vec embeddings and Gaussian Naive Bayes for SMS spam detection. It preprocesses text data, trains a Word2Vec model to generate embeddings, and utilizes a Gaussian Naive Bayes classifier for prediction.
 
 Steps Involved
